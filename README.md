@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Abdul Raheema
 
-<!--
-**AbdulRaheema/AbdulRaheema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student  
+💻 Interested in Programming and Cloud Computing  
+🌱 Currently learning Python and Java  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- Git
+- Basic Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Python To Do List
+- Student Grade Calculator
