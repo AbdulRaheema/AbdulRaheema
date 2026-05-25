@@ -1,8 +1,9 @@
 # Hi, I'm Abdul Raheema
 
-🎓 BTech Student  
-💻 Interested in Programming and Cloud Computing  
-🌱 Currently learning Python and Java  
+🎓 Final-Year BTech Student  
+💻 Interested in Programming and Cloud Computing.  
+🌐 Learning Frontend Web Development (HTML/CSS) via freeCodeCamp.
+🌱 Learning Python and Java.
 
 ## Skills
 - Python
