@@ -6,8 +6,8 @@
 🌱 Learning Python and Java.
 
 ## Skills
-- Python
 - Java
+- Python
 - Git
 - Basic Data Structures
 
