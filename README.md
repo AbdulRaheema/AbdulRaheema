@@ -14,3 +14,5 @@
 ## Projects
 - Python To Do List
 - Student Grade Calculator
+- AI Learning Buddy
+- Arduino Temperature Monitoring System
